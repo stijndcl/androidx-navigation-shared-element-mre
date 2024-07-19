@@ -29,7 +29,7 @@ The starting location of the navigation graph shouldn’t have any impact on thi
    ```diff
    navController = navController,
    - startDestination = Destinations.HOME
-   +startDestination = Destinations.SCREEN1
+   + startDestination = Destinations.SCREEN1
    ```
 
 2. Launch the app. You will arrive on Screen1.
